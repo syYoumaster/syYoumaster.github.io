@@ -1603,3 +1603,6 @@ pre .javascript .function {
     margin-bottom: 10px;
   }
 }
+body {
+cursor: url(img/cursor_default.ani.cur), auto;
+} 
